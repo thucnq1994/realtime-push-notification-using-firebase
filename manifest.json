@@ -1,6 +1,6 @@
 {
-  "name": "Friendly Chat",
-  "short_name": "Friendly Chat",
+  "name": "Realtime Push Notification Using Firebase",
+  "short_name": "Realtime Push Notification",
   "start_url": "/index.html",
   "display": "standalone",
   "orientation": "portrait"
